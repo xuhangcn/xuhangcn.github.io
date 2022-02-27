@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(listed in reverse chronological order)
 
-*# means Corresponding Authors, \* means Co-first Authors*
+*# means Corresponding Authors, \* means Co-first Authors* 
 
 - Visual-Language Navigation Pretraining via Prompt-based Environmental Self-exploration.  <br />
   Xiwen Liang, Fengda Zhu, Li Lingling, **Hang Xu**, Xiaodan Liang.
@@ -191,13 +192,9 @@ author_profile: true
   Chenhan Jiang\*, **Hang Xu**\*, Xiaodan Liang, Liang Lin.
   in *NeriPS2018*
 
-- Classification and Ranking of Fermi LAT Gamma ray Sources from the 3FGL Catalog using Machine Learning Techniques.  <br />
-  PMS Parkinson, **Hang Xu**, Philip L.H. Yu, D Salvetti, M Marelli, AD Falcone.
-  *The Astrophysical Journal*, 2016, 820(1): 8.
-
 - Detecting Change Points in the Stress Strength Reliability P(X<Y).   <br />
   **Hang Xu**,  Philip L.H. Yu, Alvo Mayer.
-  *Applied Stochastic Models in Business & Industry*
+  *Applied Stochastic Models in Business & Industry*, 2018
   
 - Angle Based Model for Ranking Data.  <br />
   **Hang Xu**, Alvo Mayer,  Philip L.H. Yu.
@@ -205,9 +202,11 @@ author_profile: true
   
 - Latent Scale Distance-based Models for Rank Aggregation.   <br />
   Philip L.H. Yu, **Hang Xu**,
-  *Statistics and Computing* 29(2), 335 349.
+  *Statistics and Computing*, 2017 29(2), 335 349.
   
- 
+- Classification and Ranking of Fermi LAT Gamma ray Sources from the 3FGL Catalog using Machine Learning Techniques.  <br />
+  PMS Parkinson, **Hang Xu**, Philip L.H. Yu, D Salvetti, M Marelli, AD Falcone.
+  *The Astrophysical Journal*, 2016, 820(1): 8. 
  
 <!-- {% include base_path %} -->
 
