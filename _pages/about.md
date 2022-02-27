@@ -24,7 +24,7 @@ Recently, my research interest includes:
 3. Automatic Machine Learning (AutoML),  specially on NAS and HPO.
 
 
-<font color='red'> We are now recruiting self-motivated interns / full-time researchers. If you are interested in, please directly send your CV to my email.
+<font color='red'> We are now recruiting self-motivated interns / full-time researchers. If you are interested in, please directly send your CV to my Email.
  </font>
 
 <!-- About Me
