@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Hang XU"
-  avatar           : #"hang.png"
-  bio              : #"Researcher @ Noah's Ark Lab"
+  avatar           : "hang.png"
+  bio              : "Researcher @ Noah's Ark Lab"
   location         : "Shanghai China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=J_8TX6sAAAAJ&hl=en"
-  email            : #"xbjxh@live.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=J_8TX6sAAAAJ"
+  email            : "xbjxh@live.com"
+  researchgate     : "https://www.researchgate.net/profile/Hang-Xu-38"
   uri              :
   bitbucket        :
   codepen          :
