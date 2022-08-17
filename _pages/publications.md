@@ -22,7 +22,7 @@ author_profile: true
   
 - DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction.  <br />
   Kaichen Zhou, Lanqing Hong, Changhao Chen, **Hang Xu**, Chaoqiang Ye, Qingyong Hu, Zhenguo Li
-  in *ECCV2022*[Oral]
+  in *ECCV2022*
   
 - MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection.  <br />
   Xuesong Chen, Shaoshuai Shi, Benjin Zhu, Ka Chun Cheung, **Hang Xu**, Hongsheng Li
