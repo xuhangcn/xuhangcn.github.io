@@ -8,6 +8,34 @@ author_profile: true
 
 *# means Corresponding Authors, \* means Co-first Authors* 
 
+- Open-world Semantic Segmentation via Contrasting and Clustering Vision-language Embedding.  <br />
+  Quande Liu, Youpeng Wen, Jianhua Han, Chunjing Xu, **Hang Xu**#, Xiaodan Liang#
+  in *ECCV2022*
+  
+- CODA: A Real-World Road Corner Case Dataset for Object Detection in Autonomous Driving.  <br />
+  Kaican Li, Kai Chen, Haoyu Wang, Lanqing Hong, Chaoqiang Ye, Jianhua Han, Yukuai Chen, Wei Zhang, Chunjing Xu, Dit-Yan Yeung, Xiaodan Liang, Zhenguo Li, **Hang Xu** 
+  in *ECCV2022*
+  
+- Generative Negative Text Replay for Continual Vision-Language Pretraining.  <br />
+  Shipeng Yan, Lanqing Hong, **Hang Xu**#, Jianhua Han, Tinne Tuytelaars, Zhenguo Li, Xuming He#
+  in *ECCV2022*
+  
+- DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction.  <br />
+  Kaichen Zhou, Lanqing Hong, Changhao Chen, **Hang Xu**, Chaoqiang Ye, Qingyong Hu, Zhenguo Li
+  in *ECCV2022*[Oral]
+  
+- MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection.  <br />
+  Xuesong Chen, Shaoshuai Shi, Benjin Zhu, Ka Chun Cheung, **Hang Xu**, Hongsheng Li
+  in *ECCV2022*
+  
+- Learning Ego 3D Representation as Ray Tracing  <br />
+  Jiachen Lu, Zheyuan Zhou, Xiatian Zhu, **Hang Xu**, Li Zhang
+  in *ECCV2022*
+  
+- RCLane: Relay Chain Prediction for Lane Detection  <br />
+  Shenghua Xu, Xinyue Cai, Bin Zhao, Li Zhang, **Hang Xu**, Yanwei Fu, Xiangyang Xue
+  in *ECCV2022*
+  
 - ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation.  <br />
   Jianan Wang, Guansong Lu, **Hang Xu**#, Zhenguo Li, Chunjing Xu, Yanwei Fu#
   in *CVPR2022*[Oral]
