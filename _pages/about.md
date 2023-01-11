@@ -20,7 +20,7 @@ Research Interest
 ======
 Recently, my research interest includes:
 1. High-level Recognition Models including 2D/3D Object Detection, Segmentation, Lane detection in Autonomous Driving.
-2. Multi-modelity Learning, such as image-text pretrained models, large-scale pretrained models, Lidar/Camera perception models.
+2. Multi-modality Learning, such as image-text pretrained models, large-scale pretrained models, Lidar/Camera perception models.
 3. Automatic Machine Learning (AutoML),  specially on NAS and HPO.
 
 
