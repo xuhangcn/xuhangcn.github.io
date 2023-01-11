@@ -8,6 +8,29 @@ author_profile: true
 
 *# means Corresponding Authors, \* means Co-first Authors* 
 
+- 3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation.  <br />
+  Zutao Jiang, Guansong Lu, Xiaodan Liang, Jihua Zhu, Wei Zhang, Xiaojun Chang, **Hang Xu**#
+  in *AAAI2022*
+  
+- NLIP: Noise-robust Language-Image Pre-training.  <br />
+  Runhui Huang, Yanxin Long, Jianhua Han, **Hang Xu**, Xiwen Liang, Chunjing Xu,Xiaodan Liang#
+  in *AAAI2022*
+  
+- AutoGen: An Automated Dynamic Model Generation Framework for Recommender System.  <br />
+  Chenxu Zhu, Bo Chen, Huifeng Guo, **Hang Xu**, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang
+  in *WSDM2023*
+  
+- ZeroGen: Efficient Zero-shot Learning via Dataset Generation.  <br />
+  Jiacheng Ye*, Jiahui Gao*, Qintong Li, **Hang Xu**, Jiangtao Feng, Zhiyong Wu, Tao Yu, and Lingpeng Kong
+  in *EMNLP 2022*
+  
+- Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark.  <br />
+  Jiaxi Gu, Xiaojun Meng, Guansong Lu, Lu Hou, Minzhe Niu, Xiaodan Liang, Lewei Yao, Runhui Huang, Wei Zhang, Xin Jiang, Chunjing Xu, **Hang Xu**#
+  in *NeurIPS2022* [Oral]
+  
+- DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection.  <br />
+  Lewei Yao, Jianhua Han, Youpeng Wen, Xiaodan Liang, Dan Xu, Wei Zhang, Zhenguo Li, Chunjing Xu, **Hang Xu**#
+  in *NeurIPS2022*
 - Open-world Semantic Segmentation via Contrasting and Clustering Vision-language Embedding.  <br />
   Quande Liu, Youpeng Wen, Jianhua Han, Chunjing Xu, **Hang Xu**#, Xiaodan Liang#
   in *ECCV2022*
