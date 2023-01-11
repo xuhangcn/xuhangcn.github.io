@@ -31,6 +31,7 @@ author_profile: true
 - DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection.  <br />
   Lewei Yao, Jianhua Han, Youpeng Wen, Xiaodan Liang, Dan Xu, Wei Zhang, Zhenguo Li, Chunjing Xu, **Hang Xu**#
   in *NeurIPS2022*
+  
 - Open-world Semantic Segmentation via Contrasting and Clustering Vision-language Embedding.  <br />
   Quande Liu, Youpeng Wen, Jianhua Han, Chunjing Xu, **Hang Xu**#, Xiaodan Liang#
   in *ECCV2022*
