@@ -112,7 +112,7 @@ author_profile: true
   Chenxu Zhu, Bo Chen, Huifeng Guo, **Hang Xu**, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang
   in *WSDM2023*
   
-  <u>2020</u>
+  <u>2022</u>
 
 - ZeroGen: Efficient Zero-shot Learning via Dataset Generation.  <br />
   Jiacheng Ye*, Jiahui Gao*, Qintong Li, **Hang Xu**, Jiangtao Feng, Zhiyong Wu, Tao Yu, and Lingpeng Kong
