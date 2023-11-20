@@ -10,11 +10,11 @@ author_profile: true
 
 - 3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation.  <br />
   Zutao Jiang, Guansong Lu, Xiaodan Liang, Jihua Zhu, Wei Zhang, Xiaojun Chang, **Hang Xu**#
-  in *AAAI2022*
+  in *AAAI2023*
   
 - NLIP: Noise-robust Language-Image Pre-training.  <br />
   Runhui Huang, Yanxin Long, Jianhua Han, **Hang Xu**, Xiwen Liang, Chunjing Xu,Xiaodan Liang#
-  in *AAAI2022*
+  in *AAAI2023*
   
 - AutoGen: An Automated Dynamic Model Generation Framework for Recommender System.  <br />
   Chenxu Zhu, Bo Chen, Huifeng Guo, **Hang Xu**, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang
