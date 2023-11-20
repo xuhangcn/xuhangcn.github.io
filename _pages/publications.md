@@ -8,6 +8,98 @@ author_profile: true
 
 *# means Corresponding Authors, \* means Co-first Authors* 
 
+- DetGPT: Detect What You Need via Reasoning.  <br />
+  Renjie Pi, Jiahui Gao, Shizhe Diao, Rui Pan, Hanze Dong, Jipeng Zhang, Lewei Yao, Jianhua Han, **Hang Xu**, Lingpeng Kong, Tong Zhang
+  in *EMNLP 2023 Main*
+
+- OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving.  <br />
+  Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, Bangjun Wang, Peijin Jia, Yuting Wang, Shengyin Jiang, Feng Wen, **Hang Xu**, Ping Luo, Junchi Yan, Wei Zhang, Hongyang Li
+  in *NeurIPS 2023 Datasets and Benchmarks*
+
+- Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection.  <br />
+  Yang Cao, Yihan Zeng, **Hang Xu**, Dan Xu
+  in *NeurIPS2023*
+
+- Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images.  <br />
+  Cuican Yu, Guansong Lu, Yihan Zeng, Jian Sun, Xiaodan Liang, Huibin Li, Zongben Xu, Songcen Xu, Wei Zhang, **Hang Xu**
+  in *ICCV2023*
+
+- DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability.  <br />
+  Runhui Huang, Jianhua Han, Guansong Lu, Xiaodan Liang, Yihan Zeng, Wei Zhang, **Hang Xu**#
+  in *ICCV2023*
+
+- PIDRo: Parallel Isomeric Attention with Dynamic Routing for Text-Video Retrieval.  <br />
+  Peiyan Guan, Renjing Pei, Bin Shao, Jianzhuang Liu, Weimian Li, Jiaxi Gu, **Hang Xu**, Songcen Xu, Youliang Yan, Edmund Lam
+  in *ICCV2023*
+
+- FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration.  <br />
+  Zhijian Huang, Sihao Lin, Guiyu Liu, Mukun LUO, Chaoqiang Ye, **Hang Xu**, Xiaojun Chang, Xiaodan Liang
+  in *ICCV2023*
+
+- MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation.  <br />
+  Kaixin Cai, Pengzhen Ren, Yi Zhu, **Hang Xu**, Jianzhuang Liu, Changlin Li, Guangrun Wang, Xiaodan Liang
+  in *ICCV2023*
+
+- DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment.  <br />
+  Xujie Zhang, Binbin Yang, Michael C. Kampffmeyer, Wenqing Zhang, Shiyue Zhang, Guansong Lu, Liang Lin, **Hang Xu**, Xiaodan Liang
+  in *ICCV2023*
+
+- GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training.  <br />
+  Xinchi Deng, Han Shi, Runhui Huang, Changlin Li, **Hang Xu**, Jianhua Han, James Kwok, Shen Zhao, Wei Zhang, Xiaodan Liang
+  in *ICCV2023*
+
+- PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection.  <br />
+  Ming Nie, Yujing XUE, Chunwei Wang, Chaoqiang Ye, **Hang Xu**, Michael Bi Mi, Xinchao Wang, Li Zhang, Xinge Zhu, Qingqiu Huang
+  in *ICCV2023*
+
+- Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach.  <br />
+  Jiachen Lu, Renyuan Peng, Xinyue Cai, **Hang Xu**, Hongyang Li, Feng Wen, Wei Zhang, Li Zhang
+  in *ICCV2023* [Oral]
+
+- SUIT: Learning Significance-guided Information for 3D Temporal Detection.  <br />
+  Zheyuan Zhou, Jiachen Lu, Yihan Zeng, **Hang XU**, Li Zhang*
+  in *IROS2023*
+
+- Mixed Autoencoder for Self-supervised Visual Representation Learning.  <br />
+  Kai Chen, Zhili LIU, Lanqing HONG, **Hang Xu**, Zhenguo Li, Dit-Yan Yeung
+  in *CVPR2023*
+
+- ConQueR: Query Contrast Voxel-DETR for 3D Object Detection.  <br />
+  Benjin Zhu, Zhe Wang, Shaoshuai Shi, **Hang Xu**, Lanqing HONG, Hongsheng Li
+  in *CVPR2023*
+
+- DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment.  <br />
+  Lewei Yao, Jianhua Han, Xiaodan Liang, Dan Xu, Wei Zhang, Zhenguo Li, **Hang Xu**#
+  in *CVPR2023*
+
+- Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving.  <br />
+  Xiwen Liang, Minzhe Niu, Jianhua Han, **Hang Xu**, Chunjing Xu, Xiaodan Liang
+  in *CVPR2023*
+
+- CapDet: Unifying Dense Captioning and Open-World Detection Pretraining.  <br />
+  Yanxin Long, Youpeng Wen, Jianhua Han, **Hang Xu**, Pengzhen Ren, Wei Zhang, Shen Zhao, Xiaodan Liang
+  in *CVPR2023*
+
+- CLIP^2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data.  <br />
+  Yihan Zeng, Chenhan Jiang, Jiageng Mao, Jianhua Han, Chaoqiang Ye, Qingqiu Huang, Dit-Yan Yeung, Zhen Yang, Xiaodan Liang, **Hang Xu**#
+  in *CVPR2023*
+
+- Task-customized Masked Autoencoder via Mixture of Cluster-conditional Experts.  <br />
+  Zhili LIU, Kai Chen, Jianhua Han, Lanqing HONG, **Hang Xu**, Zhenguo Li, James Kwok
+  in *ICLR2023* [Spotlight]
+
+- Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning.  <br />
+  Jiahui Gao, Renjie Pi, LIN Yong, **Hang Xu**, Jiacheng Ye, Zhiyong Wu, WEIZHONG ZHANG, Xiaodan Liang, Zhenguo Li, Lingpeng Kong
+  in *ICLR2023* [Spotlight]
+
+- ViewCo: Discovering Text-Supervised Segmentation Masks via Multi-View Semantic Consistency.  <br />
+  Pengzhen Ren, Changlin Li, **Hang Xu**, Yi Zhu, Guangrun Wang, Jianzhuang Liu, Xiaojun Chang, Xiaodan Liang
+  in *ICLR2023*
+
+- CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving.  <br />
+  Runjian Chen, Yao Mu, Runsen Xu, Wenqi Shao, Chenhan Jiang, **Hang Xu**, Yu Qiao, Zhenguo Li, Ping Luo
+  in *ICLR2023*
+
 - 3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation.  <br />
   Zutao Jiang, Guansong Lu, Xiaodan Liang, Jihua Zhu, Wei Zhang, Xiaojun Chang, **Hang Xu**#
   in *AAAI2023*
@@ -20,6 +112,8 @@ author_profile: true
   Chenxu Zhu, Bo Chen, Huifeng Guo, **Hang Xu**, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang
   in *WSDM2023*
   
+  <u>2020</u>
+
 - ZeroGen: Efficient Zero-shot Learning via Dataset Generation.  <br />
   Jiacheng Ye*, Jiahui Gao*, Qintong Li, **Hang Xu**, Jiangtao Feng, Zhiyong Wu, Tao Yu, and Lingpeng Kong
   in *EMNLP 2022*
