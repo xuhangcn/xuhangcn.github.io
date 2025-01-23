@@ -24,18 +24,6 @@ author_profile: true
   Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, **Hang Xu**, Zhenguo Li, Lingpeng Kong  
   in *ICLR2025*
 
-- Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising.  <br />
-  Yunlong Yuan, Yuanfan Guo, Chunwei Wang, **Hang Xu**#, **Li Zhang**#  
-  in *ICASSP2025*
-
-- DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance.  <br />
-  Cong Wang, Jiaxi Gu, Panwen Hu, Yuanfan Guo, Xiao Dong, **Hang Xu**, Xiaodan Liang  
-  in *ICASSP2025*
-
-- EasyControl: Adding Control to Video Diffusion for Controllable Video Generation and Interpolation.  <br />
-  Cong Wang, Jiaxi Gu, Panwen Hu, Xiao Dong, Yuanfan Guo, **Hang Xu**, Xiaodan Liang  
-  in *ICASSP2025*
-
 - DisCo: Discovering Common Affordance from Large Models for Actionable Part Perception.  <br />
   Youpeng Wen, Yi Zhu, Zhihao Zhan, Pengzhen Ren, Jianhua Han, **Hang Xu**, Shen Zhao, Xiaodan Liang  
   in *WACV2025*
