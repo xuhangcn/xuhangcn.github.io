@@ -12,9 +12,9 @@ redirect_from:
 About Me
 ======
 I received my Bachelor's degree in Statistics at Fudan University in 2013. 
-I obtained my Ph.D. degree in Statistics at Hong Kong University (HKU) in 2018, supervised by Prof. Philip L H Yu. During PhD study, I was also a research assistant at the University of Ottawa, supervised by Prof. Mayer Alvo from 2016 to 2018. After graduation, I joined Huawei Noah's Ark Lab in 2018. 
+I obtained my Ph.D. degree in Statistics at Hong Kong University (HKU) in 2018, supervised by Prof. Philip L H Yu. During PhD study, I was also a research assistant at the University of Ottawa, supervised by Prof. Mayer Alvo from 2016 to 2018. After graduation, I joined Huawei in 2018. 
 
-Currently, I am a **Senior Researcher** at the Computer Vision Lab in **Huawei Noah's Ark Lab**. I am leading a research team in Shanghai. We focus on industrial research in MultiModality LLM and high-level recognition techniques in computer vision in Huawei.
+Currently, I am a **Senior Researcher** at the 2030 Lab in **Huawei ADS**. I am leading a research team in Shanghai. We focus on industrial research in MultiModality LLM and high-level recognition techniques in Autonomous Driving in Huawei.
 
 Research Interest
 ======
